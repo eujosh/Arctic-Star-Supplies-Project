@@ -1,0 +1,1 @@
+Arctic Star Supplies imports and exports specialty foods from around the world. I was assigned to build a dashboard that will reflect the performance of the company. The management would like to track metrics such as total revenue, the amount of shipping costs, average order processing time for managers, the number of orders per manager, and so on.
